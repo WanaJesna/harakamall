@@ -97,7 +97,7 @@ fun IntentScreen(navController: NavController){
             modifier = Modifier.fillMaxWidth().padding(start = 20.dp, end = 20.dp)
         ) {
             Text(
-                text = "MPEsa",
+                text = "MPESA",
                 color = Color.Green
             )
         }
